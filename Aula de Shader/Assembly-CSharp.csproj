@@ -60,10 +60,15 @@
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Shaders\Bandeira Japao.shader" />
-    <None Include="Assets\Shaders\Bandeira Alemanha.shader" />
-    <None Include="Assets\Shaders\Bandeira Italia.shader" />
-    <None Include="Assets\Shaders\Bandeira Palau.shader" />
+    <None Include="Assets\Shaders\PUCLitShader.shader" />
+    <None Include="Assets\Shaders\NewSurfaceShader.shader" />
+    <None Include="Assets\Shaders\Bandeiras\Bandeira Japao.shader" />
+    <None Include="Assets\Shaders\PUCNewShader 1.shader" />
+    <None Include="Assets\Shaders\NewUnlitShader.shader" />
+    <None Include="Assets\Shaders\Bandeiras\Bandeira Alemanha.shader" />
+    <None Include="Assets\Shaders\PUCLitShaderSnow.shader" />
+    <None Include="Assets\Shaders\Bandeiras\Bandeira Italia.shader" />
+    <None Include="Assets\Shaders\Bandeiras\Bandeira Palau.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
